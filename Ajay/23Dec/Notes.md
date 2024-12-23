@@ -17,3 +17,5 @@ Ways to make the array (***Code1)
 
 
 
+
+
