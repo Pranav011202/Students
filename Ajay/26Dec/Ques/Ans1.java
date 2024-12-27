@@ -7,6 +7,7 @@ public class Solution{
 
         for(int i=0 ; i<nums.length ; i++){
             if(nums[i]>largest){
+                secondLargest = largest;
                 largest = nums[i];
             }
             if(nums[i]>secondLargest && nums[i] != largest){
