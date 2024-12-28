@@ -14,3 +14,7 @@
 ### 1) Using String Literal 
 
            String s1 = "hello";
+    
+* When we create a string like this it is created in a string constant pool 
+* String Constant pool is a special area in the memory where java stores string literals to avoid redundancy 
+* If a string with the same content exist already in SCP , the variable will point to the already existing object rather than creating a new one 
