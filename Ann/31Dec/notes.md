@@ -7,6 +7,6 @@
 
             }
 
-** Ans 3) ![Ans 3][Ans3.png]
+** Ans 3) ![Ans 3](Ans3.png)
 
         
