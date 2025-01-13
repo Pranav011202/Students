@@ -14,4 +14,4 @@ Ans - 1) Code Reusability : Avoids duplication by reusing the existing code
 * How to use inheritance ?
 Ans - Inheritance in Java is implemented using "extends" keyword  
 
-![Inheritance]{img1.png}
+![Inheritance](img1.png)
