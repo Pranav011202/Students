@@ -29,4 +29,5 @@ and behaviour(methods) of another class . It promotes code reusability and estab
 
 * ![Single Level Inheritance](img2.png)
 
-
+### Multi Level Inheritance 
+* Next Notes 
