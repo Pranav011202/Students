@@ -42,3 +42,6 @@
         map(function , iterable)
 
 ![map](4.png)
+
+
+
